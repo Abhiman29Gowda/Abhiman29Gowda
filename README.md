@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhiman29gowda&label=Profile%20views&color=0e75b6&style=flat" alt="abhiman29gowda" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abhiman29gowda" alt="abhiman29gowda" /></a> </p>
-
 - 🌱 I’m currently learning **node js,django**
 
 - 👨‍💻 All of my projects are available at [https://bit.ly/29abhi2000](https://bit.ly/29abhi2000)
